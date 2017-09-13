@@ -1,6 +1,10 @@
+--- data ---
 line 1
 line 2
 line 3
+feature 1
+line 5
+feature 2
 
 line 7
 line 8
